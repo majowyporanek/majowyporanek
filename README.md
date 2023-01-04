@@ -1,13 +1,13 @@
-### Hi 👋
+### Hi!
 About me
 
-:woman_student:	an applied Computer Science student 
-:woman_technologist:	aspiring web-developer
+- :woman_student:	an applied Computer Science student 
+- :woman_technologist:	aspiring web-developer
 
 
-🔭 I’m currently working on ...getting a degree
-🌱 I’m currently learning... Alghoritms and Data Structures, Java and more...
-💬 Ask me about ... anything
+- 🔭 I’m currently working on ...getting a degree
+- 🌱 I’m currently learning... Alghoritms and Data Structures, Java and more...
+- 💬 Ask me about ... anything
 
 <!--
 **majowyporanek/majowyporanek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
