@@ -1,8 +1,13 @@
-### Hi there 👋
-:blond_haired_woman:
+### Hi 👋
+About me
 
-- 🔭 I’m currently working on my Applied Computer Science degree
-- 🌱 I’m currently learning FrontEnd path...
+:woman_student:	an applied Computer Science student 
+:woman_technologist:	aspiring web-developer
+
+
+🔭 I’m currently working on ...getting a degree
+🌱 I’m currently learning... Alghoritms and Data Structures, Java and more...
+💬 Ask me about ... anything
 
 <!--
 **majowyporanek/majowyporanek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
